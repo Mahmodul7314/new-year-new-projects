@@ -102,13 +102,52 @@ text-align: right;}
             line-height: normal;}
             
 
-          .lastup{height: 500px;}
+          .lastup{}
           .baner-bottom{background-image:url("./images/watch.png");
         background-repeat: no-repeat;
         background-size: cover;
         padding: 50px;
        margin: 100px;
+       border-radius: 8px;
+
         }
+        h3{color: #FFF;
+          
+            font-size: 40px;
+       
+            font-weight: 700;
+            line-height: normal;}
+
+            .btn2{color: #F15B22;
+                text-align: center;
+                font-size: 20px;
+                font-weight: 600;
+                background: #FFF; 
+                margin-top: 20px;
+              }
+
+              .foter{height:450px;}
+              .footer-container{
+                height: 400px;
+                background-color: black;
+                display: flex;
+                justify-content:space-around;
+                align-items: center;
+                color: #FFF;
+                padding: 30px;
+                
+              }
+              .mail{padding:10px;margin-top: 10px;
+            }
+            .subs{font-size:25px;}
+            .failure-conteiner{display: flex;
+            justify-content: space-between;
+        align-items: center;}
+
+        .icon-container{margin-top: 30px;margin-left: 10px;}
+          
+          
+              
 
          
          
