@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{font-family: 'Open Sans', sans-serif;}
+
+
+.header-container{
+    height: 600px;
+    background-image: url("./images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-container{display: flex;
+justify-content:right;
+align-items: center;
+}
+.banner-text{margin: 200px 200px 200px 700px;
+text-align: right;}
+.banner-heading{color: #151414;
+    text-align: right;
+    font-weight: 700;
+    line-height: normal;}
+    .banner-para{ color:  #444343;
+     font-size: 16px;
+     font-weight: 400;
+      line-height: 26px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+        .btn{padding: 10px 14px;
+            border-radius: 5px;
+            background: #F15B22;
+            color: #FFF;
+            font-size: 20px;
+            font-weight: 600;
+            border-color:none;
+           }
+           .failure-conteiner{
+            width: 1200px;
+            height: 800px;
+           display: flex;
+           justify-content:space-around;
+           align-items: center;
+           }
+           .failure-text{
+           
+           margin-left:100px;
+           text-align: left;
+           
+           
+           };
+           .fh3{color: #151414;
+           font-size:  60px;
+           font-weight: 700;
+           line-height: normal;}
+
+           .para
+           {color:  #444343;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            margin-top: 20px;
+        margin-bottom: 14px;}
+
+        ul a{list-style-type:armenian;
+        }
+        ul{margin-left: 12px;}
+
+        .my-plan-container{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 60px 30px;
+           
+        }
+        .planh{text-align: center;margin-top:60px;
+            color:  #151414;
+            font-size: 40px;
+            font-weight: 700;
+            line-height: normal;}
+
+
+            .pimg{width: 92.958px;
+                height: 92.958px;
+                padding-left: 30px;
+                }
+
+            .planh3{color: #151414;
+              
+                text-align: center; 
+                font-size: 30px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: normal;}
+
+        .planp{color:  #737272;
+            text-align: center; 
+            font-size: 25px;
+            font-weight: 500;
+            line-height: normal;}
+            
+
+          .lastup{height: 500px;}
+          .baner-bottom{background-image:url("./images/watch.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 50px;
+       margin: 100px;
+        }
+
+         
+         
